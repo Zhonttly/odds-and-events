@@ -1,0 +1,11 @@
+ul {
+  display: flex;
+  gap: 10px;
+  padding: 2ch;
+  border: 0.5ch solid black;
+  border-radius: 10px;
+}
+
+li {
+  list-style-type: none;
+}
